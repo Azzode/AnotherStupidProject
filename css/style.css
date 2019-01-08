@@ -1,0 +1,14 @@
+#page{
+	margin: 20px auto;
+	width: 800px;
+	height: 600px;
+	box-shadow: 0 2px 10px #ccc;
+	background: gradient(top left, #00dbf0, #9af790);
+	transition: all 2s ease-in-out;
+}
+
+#page:hover{
+	background: #ff0000;/*-webkit-linear-gradient(top left, #00c2ff, #00edc3);*/
+	transition: all 2s ease-in-out;
+	height: 400px;
+}
