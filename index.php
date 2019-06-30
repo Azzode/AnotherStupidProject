@@ -20,7 +20,7 @@
 	  <meta name="description" content="TEEEEST!!!" />
 	  <meta http-equiv="description" content="TEEEEST!!!" />
 	  <link rel="stylesheet" type="text/css" href="css/style.css" />
-	  <title>Veslo</title>
+	  <title>Ultras</title>
 
 	  <script src="js/script.js"></script>
 	</head>
